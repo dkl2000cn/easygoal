@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK/appcompat_v7 formal"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/achartengine-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/android-support-design.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/android-support-v7-appcompat.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/android-support-v7-recyclerview.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/commons-beanutils-1.9.3-bin.zip"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/commons-beanutils-1.9.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/commons-beanutils-1.9.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/commons-beanutils-1.9.3-tests.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/commons-beanutils-1.9.3-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/eventbus-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/ezmorph-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/fluent-hc-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/gson-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/httpclient-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/httpclient-cache-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/httpclient-win-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/json-lib-2.2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/jxl.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/litepal-1.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/slidingmenulibary.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/universal-image-loader-1.9.3.jar"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/volley.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_66"/>
+	<classpathentry kind="lib" path="D:/eclipcseworkspace/RemoteSystemsTempFiles/EasyGoal_Release/libs/disklrucache-2.0.1.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

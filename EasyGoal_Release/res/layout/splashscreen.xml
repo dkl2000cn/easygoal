@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="vertical"
+     android:fastScrollEnabled="true"
+     android:focusable="false"
+     android:background="#990066"
+    android:orientation="vertical" >
+    
+      <TextView  
+               
+                android:layout_width="match_parent"  
+                android:layout_height="wrap_content" 
+                android:layout_marginTop="180dp"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="32sp"
+                android:text="目标达 "
+       />   
+    
+        <TextView  
+               
+                android:layout_width="match_parent"  
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp" 
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textSize="22sp"
+                android:text="@string/app_slogan"
+       />          
+
+  
+          <TextView  
+                android:id="@+id/tv_directenter"
+                android:layout_width="match_parent"  
+                android:layout_height="wrap_content" 
+                 android:layout_marginTop="120dp" 
+                android:gravity="center"
+                 android:textColor="@color/white"
+                 android:textSize="16sp"
+                 android:visibility="gone"
+                 android:text="直接进入"
+       />   
+  
+  
+  
+</LinearLayout>

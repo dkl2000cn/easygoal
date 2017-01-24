@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.easygoal.MainActivity_1" >
+
+     
+    
+  
+    <item  
+        android:id="@+id/action_settings1"  
+        android:icon="@drawable/share4" 
+         android:orderInCategory="100" 
+          app:showAsAction="ifRoom"        
+        android:title="分享"/>  
+    <item
+        android:id="@+id/action_settings4"
+        android:orderInCategory="90"
+        
+        android:icon="@drawable/addgoal_white"
+        app:showAsAction="ifRoom" 
+        android:title="新建"/>    
+    <item  
+        android:id="@+id/action_settings5"  
+         android:icon="@drawable/search_48px" 
+         android:orderInCategory="100" 
+          app:showAsAction="ifRoom"        
+        android:title="搜索"/>       
+    <item  
+        android:id="@+id/action_settings6"  
+        android:icon="@drawable/research_32px" 
+         android:orderInCategory="100" 
+          app:showAsAction="ifRoom"        
+        android:title="版本检查"/>  
+  
+   
+</menu>
